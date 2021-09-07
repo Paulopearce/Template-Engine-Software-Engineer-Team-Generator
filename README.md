@@ -37,8 +37,8 @@
     node app.js 
 
 </br>
-  <a href="">Screenshot of team page</a>
-  <a href="">Screenshot of employee info</a>
+  <a href="https://github.com/Paulopearce/Template-Engine-Software-Engineer-Team-Generator/blob/master/Assets/10-OOP-homework-demo-1.png?raw=true">Screenshot of team page</a>
+  <a href="https://github.com/Paulopearce/Template-Engine-Software-Engineer-Team-Generator/blob/master/Assets/10-OOP-homework-demo-2.png?raw=true">Screenshot of employee info</a>
 </br></br>
   
   # license
